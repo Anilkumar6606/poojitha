@@ -77,6 +77,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
+      { name: "google-site-verification", content: "pTiDsfQb73jFlLfkc7i1HwBkKVQ0n4C4yw4NnRcOJoI" },
       { title: "Satti Baby Poojitha — HR Professional & Talent Acquisition Specialist" },
       { name: "description", content: "Portfolio of Satti Baby Poojitha — dedicated HR professional with hands-on experience in recruitment, talent acquisition, and human resource operations." },
       { name: "author", content: "Satti Baby Poojitha" },
